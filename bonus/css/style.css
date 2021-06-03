@@ -1,0 +1,13 @@
+[class*="col-"] {
+    height: 15px;
+}
+
+.black{
+    background-color: black;
+}
+.purple{
+    background-color:rgb(111, 49, 152) ;
+}
+.gray{
+    background-color: rgb(180, 180, 180);
+}
